@@ -1,4 +1,4 @@
 {
-  "list": "com.tmtravlr.jaff.entities.EntityFish,org.spongepowered.mod.SpongeMod,org.dimdev.vanillafix.VanillaFix,lumien.custommainmenu.CustomMainMenu,com.performant.coremod.Performant,optifine.Differ",
+  "list": "com.tmtravlr.jaff.entities.EntityFish,org.spongepowered.mod.SpongeMod,org.dimdev.vanillafix.VanillaFix,com.performant.coremod.Performant,optifine.Differ",
   "disabled": "lumien.custommainmenu.CustomMainMenu,xxxx"
 }

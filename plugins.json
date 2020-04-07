@@ -1,4 +1,5 @@
 {
   "list": "xxxx,xxxx",
-  "listupdates": "ch.njol.skript.Skript|2.2-dev37c#https://github.com/SkriptLang/Skript/releases/download/dev37c/Skript.jar,xxxx|xxxx"
+  "listupdates": "ch.njol.skript.Skript|2.2-dev37c#https://github.com/SkriptLang/Skript/releases/download/dev37c/Skript.jar,xxxx|xxxx",
+  "listpluginstoforge": "org.dynmap.Dynmapcore|https://www.curseforge.com/minecraft/mc-mods/dynmapforge/download/2722448/file, xxxx|xxxx"
 }

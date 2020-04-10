@@ -1,5 +1,5 @@
 {
   "list": "xxxx,xxxx",
-  "listupdates": "ch.njol.skript.Skript|2.2-dev37c#https://github.com/SkriptLang/Skript/releases/download/dev37c/Skript.jar,com.massivecraft.factions.Factions|2.10.0#https://cdn.discordapp.com/attachments/589846583441358849/690708080152805508/Factions.jar,",
+  "listupdates": "ch.njol.skript.Skript|2.2-dev37c#https://github.com/SkriptLang/Skript/releases/download/dev37c/Skript.jar,com.massivecraft.factions.Factions|2.14.0#https://cdn.discordapp.com/attachments/589846583441358849/690708080152805508/Factions.jar,",
   "listpluginstoforge": "org.dynmap.DynmapCore|https://github.com/Shawiizz/shawiizz.github.io/raw/master/Dynmap-3.0-beta-4-forge-1.12.2.jar,com.boydti.fawe.Fawe|https://github.com/Mohist-Community/FastAsyncWorldedit/releases/download/debug/FastAsyncWorldEdit-bukkit-19.09.25-e76d576-1287-23.0.3.jar"
 }

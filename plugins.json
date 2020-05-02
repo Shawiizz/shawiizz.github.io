@@ -1,5 +1,5 @@
 {
   "list": "xxxx,xxxx",
-  "listupdates": "com.comphenix.protocol.ProtocolLib|4.4.0#https://github-production-release-asset-2e65be.s3.amazonaws.com/26688026/fd448a00-be62-11e8-9401-51ace17508b0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200502T162043Z&X-Amz-Expires=300&X-Amz-Signature=8a1c72ddba62ddc1ab1a6c115eb0c5ccab5ed3f787c25ace062f52124e924c33&X-Amz-SignedHeaders=host&actor_id=55449195&repo_id=26688026&response-content-disposition=attachment%3B%20filename%3DProtocolLib.jar&response-content-type=application%2Foctet-stream,ch.njol.skript.Skript|2.2-dev37c#https://github.com/SkriptLang/Skript/releases/download/dev37c/Skript.jar,com.massivecraft.factions.Factions|mohist#https://cdn.discordapp.com/attachments/436907032352653312/698176876656590918/Factions.jar,",
+  "listupdates": "ch.njol.skript.Skript|2.2-dev37c#https://github.com/SkriptLang/Skript/releases/download/dev37c/Skript.jar,com.massivecraft.factions.Factions|mohist#https://cdn.discordapp.com/attachments/436907032352653312/698176876656590918/Factions.jar,",
   "listpluginstoforge": "org.dynmap.DynmapCore|https://github.com/Shawiizz/shawiizz.github.io/raw/master/Dynmap-3.0-beta-4-forge-1.12.2.jar,xxxx"
 }

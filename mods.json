@@ -1,4 +1,4 @@
 {
-  "list": "shadows.fastbench.FastBench,lumien.custommainmenu.CustomMainMenu,com.tmtravlr.jaff.entities.EntityFish,org.spongepowered.mod.SpongeMod,org.dimdev.vanillafix.VanillaFix,com.performant.coremod.Performant,optifine.Differ",
+  "list": "shadows.fastbench.net.HijackedDedicatedPlayerList,lumien.custommainmenu.CustomMainMenu,com.tmtravlr.jaff.entities.EntityFish,org.spongepowered.mod.SpongeMod,org.dimdev.vanillafix.VanillaFix,com.performant.coremod.Performant,optifine.Differ",
   "implemented": "xxxx,xxxx"
 }

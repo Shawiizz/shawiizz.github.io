@@ -1,5 +1,5 @@
 {
   "list": "xxxx,xxxx",
   "listupdates": "ch.njol.skript.Skript|2.2-dev37c#https://github.com/SkriptLang/Skript/releases/download/dev37c/Skript.jar,com.massivecraft.factions.Factions|mohist#https://cdn.discordapp.com/attachments/436907032352653312/698176876656590918/Factions.jar,",
-  "listpluginstoforge": "org.dynmap.DynmapCore|https://github.com/Shawiizz/shawiizz.github.io/raw/master/Dynmap-3.0-beta-4-forge-1.12.2.jar,xxxx"
+  "listpluginstoforge": "org.dynmap.DynmapCore|https://github.com/Shawiizz/shawiizz.github.io/raw/master/Dynmap-3.0-beta-4-forge-1.12.2.jar,"
 }

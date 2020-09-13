@@ -1,5 +1,5 @@
 {
-  "list": "shadows.fastbench.net.HijackedDedicatedPlayerList,lumien.custommainmenu.CustomMainMenu,com.tmtravlr.jaff.entities.EntityFish,org.spongepowered.mod.SpongeMod,com.performant.coremod.Performant,optifine.Differ",
+  "list": "lumien.custommainmenu.CustomMainMenu,com.tmtravlr.jaff.entities.EntityFish,org.spongepowered.mod.SpongeMod,com.performant.coremod.Performant,optifine.Differ",
   "implemented": "xxxx,xxxx",
   "changeconfig": "shadows.fastbench.net.HijackedDedicatedPlayerList#fastbench.cfg#B:\"Disable Recipe Book\"=true#B:\"Disable Recipe Book\"=false#https://shawiizz.github.io/fastbench.cfg"
 }
